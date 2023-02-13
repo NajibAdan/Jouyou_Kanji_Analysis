@@ -7,7 +7,7 @@
 - Grade should be categorical in the order S,5,4,3,2,1
 - Year is float
     - It should be integer
-
+- Radicals: Transform the radicals into their more common shapes
 
 ### Exploratory
 - For kanjis added, which grades were they for
